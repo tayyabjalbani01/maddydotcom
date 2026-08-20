@@ -199,12 +199,12 @@ export const CREATOR_DATA = {
     },
     {
       id: "b3",
-      title: "Windy City Survival Guide: Winter Edition",
-      category: "Chicago Life",
-      imageUrl: "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&q=80&w=800",
-      date: "February 10, 2026",
-      snippet: "Navigating Lake Michigan winds, coat layering, and finding cozy coffee nooks.",
-      readTime: "6 min read",
+      title: "What To Do When You Have a Crush: 27 Proven Ways To Cope",
+      category: "Advice",
+      imageUrl: "/images/crush-cope.jpg",
+      date: "January 27, 2026",
+      snippet: "From dramatic classic paintings to emergency distraction playlists, here's how to survive unrequited feelings.",
+      readTime: "5 min read",
       highlightColor: "sky"
     },
     {
