@@ -189,12 +189,12 @@ export const CREATOR_DATA = {
     },
     {
       id: "b2",
-      title: "Why High School Newspaper Taught Me Everything",
-      category: "Nostalgia",
-      imageUrl: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=800",
-      date: "February 18, 2026",
-      snippet: "Missing tight deadlines, blue ink edits, and having strong opinions on deadline.",
-      readTime: "5 min read",
+      title: "“House of Leaves:” Review & Theories",
+      category: "Book Review",
+      imageUrl: "/images/house-of-leaves.png",
+      date: "July 9, 2025",
+      snippet: "Unraveling the labyrinth, footnote madness, and structural horror of Mark Z. Danielewski's masterpiece.",
+      readTime: "7 min read",
       highlightColor: "pink"
     },
     {
