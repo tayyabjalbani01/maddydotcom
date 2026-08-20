@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "pages:dev": "wrangler pages dev",
-    "pages:deploy": "npm run build && wrangler pages deploy .next",
+    "pages:deploy": "npm run build && wrangler pages deploy out",
     "workers:deploy": "npm run build && wrangler deploy",
     "deploy": "npm run pages:deploy"
   },
